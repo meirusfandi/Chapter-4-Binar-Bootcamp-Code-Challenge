@@ -7,4 +7,14 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="selected">#ffffffff</color>
+    <color name="unselected">#00ffffff</color>
+    <color name="result_draw">#ffffffff</color>
+    <color name="result_win">#ffffffff</color>
+    <color name="text_result_draw">#ffffffff</color>
+    <color name="text_result_win">#ffffffff</color>
+    <color name="text_vs">#ffffffff</color>
+    <color name="player_color">#2196F3</color>
+    <color name="yellow">#FFEB3B</color>
+    <color name="green">#4CAF50</color>
 </resources>

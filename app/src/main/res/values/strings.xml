@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Game Suit Ch 4</string>
+    <string name="batu">Batu</string>
+    <string name="gunting">Gunting</string>
+    <string name="kertas">Kertas</string>
+    <string name="player_1">Player 1</string>
+    <string name="com">Com</string>
+    <string name="menang">Menang</string>
+    <string name="vs">VS</string>
 </resources>
